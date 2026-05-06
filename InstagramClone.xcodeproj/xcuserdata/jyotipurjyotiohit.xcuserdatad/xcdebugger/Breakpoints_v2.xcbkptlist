@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3475ADB8-2111-474D-9A6F-ACC7D627534B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDC10483-0249-409E-BE7D-EB66F30FA22C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "createPost(caption:images:ownerUid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "664D0DF4-CBBB-4A24-8E08-71328735FB36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41DC87DA-50D7-441D-A11C-BDEF00251B74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/ViewModel/StoryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "createStory(images:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41DC87DA-50D7-441D-A11C-BDEF00251B74 - 793a84c1ec9bf44e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for InstagramClone.StoryViewModel.createStory(images: Swift.Array&lt;__C.UIImage&gt;) async -&gt; ()"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/StoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70">
+               </Location>
+               <Location
+                  uuid = "41DC87DA-50D7-441D-A11C-BDEF00251B74 - 44e877ec3f8f1164"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for InstagramClone.StoryViewModel.createStory(images: Swift.Array&lt;__C.UIImage&gt;) async -&gt; ()"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/StoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96B85B63-6B60-49D7-89BB-48EB5161D6C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/View/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C146C634-F7C3-4466-85F5-049C1A07E7EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/View/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D76D2ED-5A2C-41D1-939E-C2BE52358D5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "loadProfile(uid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A82B27CB-0BAC-4B21-B239-43B89AB00583"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "loadProfile(uid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6D39426-ECEE-412F-A1EB-07915AA87BD3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "loadProfile(uid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF43A72A-8FC2-44E3-92FD-33A0DA639449"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "loadProfile(uid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FF43A72A-8FC2-44E3-92FD-33A0DA639449 - e4182885dc8cbdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for InstagramClone.ProfileViewModel.loadProfile(uid: Swift.Optional&lt;Swift.String&gt;) async -&gt; ()"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+               <Location
+                  uuid = "FF43A72A-8FC2-44E3-92FD-33A0DA639449 - e4182885dc8ca82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for InstagramClone.ProfileViewModel.loadProfile(uid: Swift.Optional&lt;Swift.String&gt;) async -&gt; ()"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA40FF8F-B91D-4061-8D44-C5592A17DDC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchUserPosts(uid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA40FF8F-B91D-4061-8D44-C5592A17DDC3 - 45ce7ece0ded3a1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57">
+               </Location>
+               <Location
+                  uuid = "FA40FF8F-B91D-4061-8D44-C5592A17DDC3 - 45ce7ece0ded39f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2308FDA8-0EAA-4235-9CC6-239D9E99BD6B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "fetchUserPosts(uid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2308FDA8-0EAA-4235-9CC6-239D9E99BD6B - 45ce7ece0ded3afa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58">
+               </Location>
+               <Location
+                  uuid = "2308FDA8-0EAA-4235-9CC6-239D9E99BD6B - 45ce7ece0ded39d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C26C26BA-4C81-47D0-BFB0-022C8440BE60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "fetchUserPosts(uid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C26C26BA-4C81-47D0-BFB0-022C8440BE60 - 45ce7ece0ded3ad9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59">
+               </Location>
+               <Location
+                  uuid = "C26C26BA-4C81-47D0-BFB0-022C8440BE60 - 45ce7ece0ded39b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchUserPosts(uid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15 - 45ce7ece0ded3ab8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60">
+               </Location>
+               <Location
+                  uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15 - c858ae5d4b796abb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60">
+               </Location>
+               <Location
+                  uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15 - 1300d7faaf16f6be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60">
+               </Location>
+               <Location
+                  uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15 - b4399c63182b14bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60">
+               </Location>
+               <Location
+                  uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15 - b4399c63182b14bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60">
+               </Location>
+               <Location
+                  uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15 - 45ce7ece0ded3997"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69">
+               </Location>
+               <Location
+                  uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15 - c858ae5d4b796994"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69">
+               </Location>
+               <Location
+                  uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15 - 1300d7faaf16f591"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69">
+               </Location>
+               <Location
+                  uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15 - b4399c63182b1792"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69">
+               </Location>
+               <Location
+                  uuid = "15A8C0FB-5898-4BAA-9737-01517E2A1F15 - b4399c63182b1792"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BE5CF71-626F-45B5-AF4B-D1CEA654A5C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramClone/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "fetchUserPosts(uid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1BE5CF71-626F-45B5-AF4B-D1CEA654A5C1 - 1300d7faaf16f699"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61">
+               </Location>
+               <Location
+                  uuid = "1BE5CF71-626F-45B5-AF4B-D1CEA654A5C1 - e63b5462dc3ee549"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRQueryDocumentSnapshot) -&gt; Swift.Optional&lt;InstagramClone.Post&gt; in InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61">
+               </Location>
+               <Location
+                  uuid = "1BE5CF71-626F-45B5-AF4B-D1CEA654A5C1 - 1300d7faaf16f470"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70">
+               </Location>
+               <Location
+                  uuid = "1BE5CF71-626F-45B5-AF4B-D1CEA654A5C1 - e63b5462dc3ee7a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRQueryDocumentSnapshot) -&gt; Swift.Optional&lt;InstagramClone.Post&gt; in InstagramClone.ProfileViewModel.fetchUserPosts(uid: Swift.String) async throws -&gt; Swift.Array&lt;InstagramClone.Post&gt;"
+                  moduleName = "InstagramClone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyotipurjyotiohit/Desktop/GitHubDemo/InstagramClone/InstagramClone/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
